@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Open Source Contribution**
 
-- 👨‍💻 All of my projects are available at [https://socio-front-end.onrender.com/](https://socio-front-end.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://socio-front-end.onrender.com/](https://nitesh-portfolio.onrender.com/)
 
 - 💬 Ask me about **React JS ,React Native ,Node JS, Express JS and Postgres**
 
